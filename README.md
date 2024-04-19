@@ -1,5 +1,9 @@
-# Template for datapack Made by L.Lawliet
+# Simple datapack that allows arrow deflection
 
----
+- From sword
+- From hand
+- From other projectile like arrows
 
-`.gitkeep` file doesn't have any meaning its just there to keep the empty folders there in git. Feel free to remove it.
+# For developers and modpack creators
+If you need support for your own modpack or want to use it anywhere else feel free to contact me to make the changes.
+
